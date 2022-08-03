@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming, AI and machine learning.
 - 🌱 I’m currently learning AI & ML.
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me INSTA- @11_roshiiee
+- 📫 How to reach me INSTA- @colleengineer
+
 
 <!---
 Roshni011/Roshni011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
