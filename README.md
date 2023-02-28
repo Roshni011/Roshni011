@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, AI and machine learning.
 - 🌱 I’m currently learning AI & ML.
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me INSTA- @colleengineer
+- 📫 How to reach me INSTA- @atomicneutron
 
 
 <!---
