@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roshni011
-- 👀 I’m interested in programming, AI, Prompt Engineering, LLMs and machine learning.
-- 🌱 I’m currently pursuing B.Tech in Computer Science Engineering (AI & ML).
-- 💞️ I’m looking to collaborate on various ML, python and LLMs projects.
+- 👀 I’m interested in programming, AI, Prompt Engineering, LLMs, and machine learning.
+- 🌱 I have completed my B.Tech in Computer Science Engineering (AI & ML) from Guru Jambheshwar University, Hisar, Haryana.
+- 💞️ I’m looking to collaborate on various ML, Python, and LLMs projects.
 - 📫
 
 
